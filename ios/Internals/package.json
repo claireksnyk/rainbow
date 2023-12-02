@@ -11,7 +11,7 @@
   "homepage": "https://github.com/rainbow-me/rainbow#readme",
   "devDependencies": {
     "pod-install": "^0.1.0",
-    "react": "16.13.1",
+    "react": "18.2.0",
     "react-native": "0.64.2"
   },
   "peerDependencies": {
