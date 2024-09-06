@@ -23,7 +23,7 @@
   "devDependencies": {
     "@types/d3-scale": "^4.0.2",
     "@types/d3-shape": "^3.0.2",
-    "@babel/core": "^7.11.4",
+    "@babel/core": "^7.23.2",
     "@babel/runtime": "^7.11.2"
   },
   "peerDependencies": {
