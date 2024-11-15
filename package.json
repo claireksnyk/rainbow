@@ -349,7 +349,7 @@
     "chai": "4.2.0",
     "detox": "20.13.0",
     "dotenv": "8.2.0",
-    "eslint": "8.22.0",
+    "eslint": "9.15.0",
     "eslint-config-rainbow": "4.3.0",
     "graphql": "15.3.0",
     "hardhat": "2.18.1",
