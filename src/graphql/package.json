@@ -9,6 +9,6 @@
     "@graphql-codegen/typescript": "2.7.3",
     "@graphql-codegen/typescript-generic-sdk": "3.0.1",
     "@graphql-codegen/typescript-operations": "2.5.3",
-    "@graphql-eslint/eslint-plugin": "3.10.7"
+    "@graphql-eslint/eslint-plugin": "4.0.0"
   }
 }
